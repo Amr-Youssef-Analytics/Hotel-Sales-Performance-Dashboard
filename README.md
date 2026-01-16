@@ -22,6 +22,8 @@ key accounts, customer retention, and operational KPIs.
 ### Companies Sustainability & Retention
 ![Companies Sustainability](screenshots/Companies_Sustainability.png)
 
+## Data Model
+![Data Model](screenshots/Star_schema_design.png)
 ---
 
 ## 🎯 Project Objectives
